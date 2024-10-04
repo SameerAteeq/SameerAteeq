@@ -7,4 +7,5 @@ I'm a frontend developer with a focus on building dynamic, high-performance web 
  - **Languages**: JavaScript, React, Nextjs
  - **Tools**: VsCode, Git
 
+***
 [![GitHub Streak](https://streak-stats.demolab.com?user=SameerAteeq&theme=dark&hide_border=true)](https://git.io/streak-stats)
