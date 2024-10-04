@@ -8,4 +8,8 @@ I'm a frontend developer with a focus on building dynamic, high-performance web 
  - **Tools**: VsCode, Git
 
 ***
+ ## 📱 Connect Now
+ ***
+ 
+## 📊 Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=SameerAteeq&theme=dark&hide_border=true)](https://git.io/streak-stats)
