@@ -45,5 +45,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SameerAteeq&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 ###
