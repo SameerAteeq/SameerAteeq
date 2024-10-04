@@ -7,7 +7,7 @@ In addition to my frontend expertise, I also have knowledge of backend technolog
  ***
  ## 🛠️ Technologies & Tools
 
- - **Languages**: JavaScript, React, Nextjs
+ - **Languages**: JavaScript, React.js, Next.js, Node.js, Express.js
  - **Tools**: VsCode, Git
 
 ***
