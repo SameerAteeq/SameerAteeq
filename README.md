@@ -9,6 +9,8 @@ I'm a frontend developer with a focus on building dynamic, high-performance web 
 
 ***
  ## 📱 Connect Now
+
+ - **LinkedIn**: [Muhammad Sameer](https://www.linkedin.com/in/muhammad-sameer-338407228/)
  ***
  
 ## 📊 Statistics
