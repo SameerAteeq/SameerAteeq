@@ -1,21 +1,57 @@
-## 👋 Hi there, I'm Muhammad Sameer
 
-I'm a frontend developer with a focus on building dynamic, high-performance web applications using React and Next.js. I enjoy crafting clean, responsive UIs and leveraging the power of server-side rendering (SSR) and static site generation (SSG) for optimized, scalable projects. Passionate about modern web technologies, I aim to create user-friendly and efficient solutions.
+# 👋 Hi there, I'm Muhammad Sameer
 
-In addition to my frontend expertise, I also have knowledge of backend technologies such as Node.js, MongoDB, and Express. I have hands-on experience working on backend development, building full-stack applications and handling server-side logic, databases, and APIs.
+I am a **passionate web developer** who loves building **modern, scalable, and user-friendly applications**. With a strong focus on **problem-solving** and **clean architecture**, I enjoy exploring new technologies and delivering **high-quality solutions that create real impact**.
 
- ***
- ## 🛠️ Technologies & Tools
+---
 
- - **Languages**: JavaScript, React.js, Next.js, Node.js, Express.js
- - **Tools**: VsCode, Git
+## 🛠️ **Key Skills & Technologies**
 
-***
- ## 📱 Connect Now
+### **Frontend**
 
- - **LinkedIn**: [Muhammad Sameer](https://www.linkedin.com/in/muhammad-sameer-338407228/)
- - **Email**: [sameerateeq0@gmail.com](mailto:sameerateeq0@gmail.com)
- ***
- 
-## 📊 Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=SameerAteeq&theme=dark&hide_border=true)](https://git.io/streak-stats)
+* React.js, Next.js
+
+### **Backend**
+
+* Node.js, NestJS
+
+### **Databases**
+
+* MongoDB, PostgreSQL
+
+### **UI & Styling**
+
+* Material UI, Ant Design (Antd), Tailwind CSS
+
+### **Cloud & DevOps**
+
+* AWS (DynamoDB, Lambda Functions, Serverless Framework, Cognito, S3)
+
+### **Tools & Version Control**
+
+* Docker, Git, GitHub
+
+### **Basic Knowledge Of**
+
+* GraphQL, Apollo Client, AWS ECS, ECR, AWS Batch
+
+---
+
+## 🚀 **About Me**
+
+I am always motivated to **learn, adapt, and innovate** with cutting-edge tools and modern frameworks. My ultimate goal is to create seamless **digital experiences** and deliver solutions that **empower users and businesses**.
+
+---
+
+## 📱 **Connect With Me**
+
+* **LinkedIn**: [Muhammad Sameer](https://www.linkedin.com/in/muhammad-sameer-338407228/)
+* **Email**: [sameerateeq0@gmail.com](mailto:sameerateeq0@gmail.com)
+
+---
+
+## 📊 **GitHub Statistics**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SameerAteeq\&theme=dark\&hide_border=true)](https://git.io/streak-stats)
+
+
