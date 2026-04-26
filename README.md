@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Muhammad Sameer
 
-I am a **passionate web developer** who loves building **modern, scalable, and user-friendly applications**. With a strong focus on **problem-solving** and **clean architecture**, I enjoy exploring new technologies and delivering **high-quality solutions that create real impact**.
+I am a **passionate Full Stack Web Developer** who loves building **modern, scalable, and user-friendly applications**. With a strong focus on **problem-solving** and **clean architecture**, I enjoy exploring new technologies and delivering **high-quality solutions that create real impact**.
 
 ---
 
@@ -9,15 +9,15 @@ I am a **passionate web developer** who loves building **modern, scalable, and u
 
 ### **Frontend**
 
-* React.js, Next.js
+* React.js, Next.js, Vue.js
 
 ### **Backend**
 
-* Node.js, NestJS
+* Node.js, NestJS, FastApi
 
 ### **Databases**
 
-* MongoDB, PostgreSQL
+* MongoDB, PostgreSQL, Supabase
 
 ### **UI & Styling**
 
@@ -31,7 +31,7 @@ I am a **passionate web developer** who loves building **modern, scalable, and u
 
 * Docker, Git, GitHub
 
-### **Basic Knowledge Of**
+### **Familiar with**
 
 * GraphQL, Apollo Client, AWS ECS, ECR, AWS Batch
 
